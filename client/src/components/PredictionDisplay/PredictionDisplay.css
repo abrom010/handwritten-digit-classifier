@@ -1,0 +1,13 @@
+.PredictionDisplay .frame {
+	background-color: black;
+	height: 400px;
+	width: 600px;
+}
+
+.PredictionDisplay .frame h1 {
+	margin: 0;
+	padding: 0;
+	color: lightgreen;
+	font-size: 300px;
+	text-align: center;
+}

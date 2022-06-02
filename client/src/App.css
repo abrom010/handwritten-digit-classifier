@@ -1,0 +1,15 @@
+.App {
+	background-color: #34282c;
+	color: white;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.App .outer-container {
+	width: 100%;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}

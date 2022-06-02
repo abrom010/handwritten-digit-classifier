@@ -1,0 +1,14 @@
+.PredictionButton button {
+	padding: 15px;
+	background-color: #6699ff;
+	border: none;
+	color: white;
+	font-weight: 600;
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+.PredictionButton button:hover {
+	background-color: #4488dd;
+	cursor: pointer;
+}
